@@ -1,5 +1,3 @@
-# Scripts for the manuscipt "Enhancing biological signals and detection rates in single-cell RNA-seq experiments with cDNA library equalization"
-
 This repository contains 
 
 1. Code to reproduce the analyses and figures in "Enhancing biological signals and detection rates in single-cell RNA-seq experiments with cDNA library equalization". This includes all preprocessing steps and the generation of figures in the main text and supplement. 
